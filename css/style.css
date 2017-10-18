@@ -46,7 +46,7 @@ figcaption {
 
 /*Descendant Selector */
 
-#logo h1 { /*selects <h1> if inside the id="logo"
+#logo h1 { /*selects <h1> if inside the id="logo" */
 
 
 }
