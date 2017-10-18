@@ -58,4 +58,7 @@ figcaption {
 
 /* Pseudo Selector */
 
-#details a:link
+#details a:link {
+
+  
+}
